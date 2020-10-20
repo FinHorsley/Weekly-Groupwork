@@ -7,7 +7,7 @@ package filenewproject;
 
 /**
  *
- * @author Adam Gilley
+ * @author Harry Marsh
  */
 public class FileNewProject {
 
